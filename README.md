@@ -1,0 +1,2 @@
+# telaloginsqlite
+SQLITE
